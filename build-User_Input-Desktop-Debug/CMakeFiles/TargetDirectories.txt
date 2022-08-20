@@ -1,0 +1,3 @@
+/home/kartik/Desktop/CPP portfolio/build-User_Input-Desktop-Debug/CMakeFiles/User_Input.dir
+/home/kartik/Desktop/CPP portfolio/build-User_Input-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/kartik/Desktop/CPP portfolio/build-User_Input-Desktop-Debug/CMakeFiles/rebuild_cache.dir
